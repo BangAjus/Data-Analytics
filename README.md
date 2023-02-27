@@ -3,7 +3,7 @@
 # Classification
 
 ## Loan Prediction
-
+### [code (ipynb)](Loan Prediction.ipynb)
 ### [dataset (train)](loan_sanction_train.csv)
 ### [dataset (test)](loan_sanction_test.csv)
 
